@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CLDV6212_FuncApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7116",
+      "launchBrowser": false
+    }
+  }
+}
